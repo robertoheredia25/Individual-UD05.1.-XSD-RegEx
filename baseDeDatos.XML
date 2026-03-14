@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<baseDeDatos>
+    <usuario>
+        <nombreUsuario>juan23</nombreUsuario>
+        <email>juan23@email.com</email>
+        <telefono>612345678</telefono>
+        <codigoPostal>28001</codigoPostal>
+        <contrasena>abc123</contrasena>
+    </usuario>
+
+    <usuario>
+        <nombreUsuario>maria</nombreUsuario>
+        <email>maria.dev@email.com</email>
+        <telefono>623456789</telefono>
+        <codigoPostal>08002</codigoPostal>
+        <contrasena>pass456</contrasena>
+    </usuario>
+
+    <usuario>
+        <nombreUsuario>carlos99</nombreUsuario>
+        <email>carlos99@email.com</email>
+        <telefono>634567891</telefono>
+        <codigoPostal>41003</codigoPostal>
+        <contrasena>clave789</contrasena>
+    </usuario>
+
+    <usuario>
+        <nombreUsuario>ana</nombreUsuario>
+        <email>ana.g@email.com</email>
+        <telefono>645678912</telefono>
+        <codigoPostal>46004</codigoPostal>
+        <contrasena>ana1234</contrasena>
+    </usuario>
+
+    <usuario>
+        <nombreUsuario>pedro21</nombreUsuario>
+        <email>pedro21@email.com</email>
+        <telefono>656789123</telefono>
+        <codigoPostal>50005</codigoPostal>
+        <contrasena>pedro321</contrasena>
+    </usuario>
+
+    <usuario>
+        <nombreUsuario>lucia</nombreUsuario>
+        <email>lucia.code@email.com</email>
+        <telefono>667891234</telefono>
+        <codigoPostal>29006</codigoPostal>
+        <contrasena>lucia654</contrasena>
+    </usuario>
+
+    <usuario>
+        <nombreUsuario>david</nombreUsuario>
+        <email>david77@email.com</email>
+        <telefono>678912345</telefono>
+        <codigoPostal>30007</codigoPostal>
+        <contrasena>david987</contrasena>
+    </usuario>
+
+    <usuario>
+        <nombreUsuario>sofia</nombreUsuario>
+        <email>sofia.net@email.com</email>
+        <telefono>689123456</telefono>
+        <codigoPostal>15008</codigoPostal>
+        <contrasena>sofia159</contrasena>
+    </usuario>
+
+    <usuario>
+        <nombreUsuario>alex</nombreUsuario>
+        <email>alex.master@email.com</email>
+        <telefono>691234567</telefono>
+        <codigoPostal>33009</codigoPostal>
+        <contrasena>alex753</contrasena>
+    </usuario>
+
+    <usuario>
+        <nombreUsuario>laura89</nombreUsuario>
+        <email>laura89@email.com</email>
+        <telefono>602345678</telefono>
+        <codigoPostal>35010</codigoPostal>
+        <contrasena>laura852</contrasena>
+    </usuario>
+</baseDeDatos>
