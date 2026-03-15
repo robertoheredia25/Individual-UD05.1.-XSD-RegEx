@@ -1,0 +1,1 @@
+En este repositorio hemos hecho un xml y un xsd para validarlo y poner restrecciones para cada campo para ello hemos usado el xs :pattern para añadir el valor de como tiene que ser la forma del campo gracias a las expresiones regulares
